@@ -774,8 +774,8 @@ html {
 
 body {
   font-family: 'Lato', sans-serif;
-  color: #515151;
-  background-color: #fbfbfb;
+  color: #ffffffc8; /*TEXT CLR*/
+  background-color: #000000;
   margin: 0;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -889,7 +889,7 @@ table tfoot td {
 }
 
 .post, .article-page {
-  background-color: #fff;
+  background-color: #c998ef29; /*POST CLR*/
 }
 
 ::-moz-selection {
@@ -933,7 +933,7 @@ table tfoot td {
   width: 240px;
   height: 100%;
   padding: 20px 10px;
-  background-color: #ffffff;
+  background-color: #121212; /*SIDEBBAR CLR*/
 }
 
 .about {
@@ -975,7 +975,7 @@ table tfoot td {
   padding-bottom: 15px;
   font-size: 16px;
   text-transform: uppercase;
-  color: #333030;
+  color: #ffffff;
   font-weight: 700;
 }
 
@@ -1007,6 +1007,7 @@ table tfoot td {
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
+  background-color: #000000; /*POST BACKGROUND CLR*/
   -webkit-box-orient: horizontal;
   -webkit-box-direction: normal;
   -webkit-flex-direction: row;
@@ -1023,7 +1024,7 @@ table tfoot td {
 
 .contact .contact-title {
   position: relative;
-  color: #333030;
+  color: #ffffffe8;
   font-weight: 400;
   font-size: 12px;
   margin: 0 0 5px;
@@ -1078,7 +1079,7 @@ table tfoot td {
 }
 
 .contact ul li a {
-  color: #515151;
+  color: #e4dcdcc8;
   display: block;
   padding: 5px;
   font-size: 18px;
@@ -1164,8 +1165,9 @@ footer .copyright {
 .post .post-content .post-title a {
   font-family: 'PT Serif', serif;
   text-decoration: none;
-  color: #263959;
+  color: #ffffffcd; /*POST HEADER TEXT CLR*/
 }
+
 
 .post .post-content p {
   margin-top: 0;
@@ -1184,8 +1186,8 @@ a.older-posts, a.newer-posts {
 
 a.older-posts:hover {
   -webkit-transform: translateX(5px);
-      -ms-transform: translateX(5px);
-          transform: translateX(5px);
+  -ms-transform: translateX(5px);
+  transform: translateX(5px);
 }
 
 a.newer-posts:hover {
@@ -1408,7 +1410,7 @@ a.newer-posts:hover {
             justify-content: space-between;
     width: 100%;
     padding: 10px;
-    background-color: #ffffff;
+    /*background-color: #ffffff;*/
     -webkit-box-shadow: 0 1px 1px 0 rgba(31, 35, 46, 0.15);
             box-shadow: 0 1px 1px 0 rgba(31, 35, 46, 0.15);
   }
@@ -1428,6 +1430,7 @@ a.newer-posts:hover {
     margin-bottom: 10px;
   }
   .content-box {
+    /*background-color: #263959;*/
     padding: 20px 10px;
     display: -webkit-box;
     display: -webkit-flex;
