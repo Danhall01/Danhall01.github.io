@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "[Uni] Master of Science in Engineering: Game and Software Engineering"
-date: 2025-05-26 12:00:00 +0100
+date: 2025-06-04 12:00:00 +0100
 description: A view of the largest and most impactful projects created by me during my time in university. # Add post description (optional)
 img: bth_ute_vatten.jpg # Add image post (optional)
 ---
