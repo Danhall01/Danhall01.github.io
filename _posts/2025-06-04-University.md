@@ -6,6 +6,8 @@ description: A view of the largest and most impactful projects created by me dur
 img: bth_ute_vatten.jpg # Add image post (optional)
 ---
 Note: Most of the code from these projects are available as private repositories on my github page. If you want to know more about the code, contact me and I can share the code.
+
+Note(2): If you want to see my skillset at a glace I've marked `important` details in this page.
 * auto-gen TOC:
 {:toc}
 
