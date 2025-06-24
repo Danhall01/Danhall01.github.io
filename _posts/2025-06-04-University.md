@@ -88,7 +88,7 @@ My first 3D renderer in DX11, this project included many features to create a re
 For this project I worked with 1 other classmate, we created a compiler and interpreter for the language Mini Java. This is a subset of the Java programming language with much less features. The project was written entirely in `C11` and could compile the entire language into bytecode which our interpreter could then execute.
 
 ## [CUDA] LeNet-5 AI Model (2 people)
-For this project me and a classmate transformed a already written LeNet-5 AI from C++ into `CUDA`, we achieved roughly 70% increased performance with the same results. We implemented both forward and `backward propagation` in `CUDA`.
+For this project me and a classmate transformed a already written LeNet-5 AI from C++ into `CUDA`, we achieved roughly 70% increased performance with the same results. We implemented both `forward and backward propagation` in `CUDA`.
 
 ## [C] UDP and TCP Realtime Chat server/client
 For this project there were multple steps, I created both server and client to handle the chat functionallity; however the final project was a client that connects to a BTH hosted server. All of the code was written in Linux using `C11`. The clients used Linux `real time signals` to await and communicate information. The project was created with `C11` features and relied much on the `DRY` principles.
