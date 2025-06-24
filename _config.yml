@@ -8,7 +8,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # Author Settings
 author: Daniel Häll # add your name
 author-img: daniel_hall.jpg # add your photo
-about-author: I am a C developer, highly interested in performance and optimisation techniques. # add description
+about-author: I am game engine developer who prefers C, my motto in coding is D.R.Y. # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: Danhall01 # add your Github handle
