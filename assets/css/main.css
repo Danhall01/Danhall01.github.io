@@ -889,7 +889,7 @@ table tfoot td {
 }
 
 .post, .article-page {
-  background-color: rgba(255,255,255,0.2); /*POST CLR*/
+  background-color: rgba(255,255,255,0.15); /*POST CLR*/
 }
 
 ::-moz-selection {
@@ -1007,7 +1007,7 @@ table tfoot td {
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  background-color: rgba(255,255,255,0.3); /*POST BACKGROUND CLR*/
+  background-color: rgba(255,255,255,0.05); /*POST BACKGROUND CLR*/
   -webkit-box-orient: horizontal;
   -webkit-box-direction: normal;
   -webkit-flex-direction: row;
