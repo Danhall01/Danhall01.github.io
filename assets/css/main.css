@@ -933,7 +933,7 @@ table tfoot td {
   width: 240px;
   height: 100%;
   padding: 20px 10px;
-  background-color: rgba(255, 255, 255, 0.1); /*SIDEBBAR CLR*/
+  background-color: rgba(255, 255, 255, 0.5); /*SIDEBBAR CLR*/
 }
 
 .about {
