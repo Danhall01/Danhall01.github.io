@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "[Env] My programming setup"
-date: 2025-06-04 12:00:00 +0100
+date: 2025-08-14 12:00:00 +0100
 description: My current working setup on Linux using NeoVim as my primary editor with my own custom distro. # Add post description (optional)
 img: manjaro.jpg # Add image post (optional)
 ---
