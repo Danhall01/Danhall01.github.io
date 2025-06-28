@@ -72,7 +72,7 @@ A renderer created in Vulkan to draw both `meshes` and `meshlets`. The purpose o
 Graphs and more info will be added at a later date.
 
 ## [JS/WebGL] Web based Metaball Renderer
-The project involves using `WebGL` and `glsl` to render meta balls on the web. The project uses `Marching Cubes` to do this.
+The project involves using `WebGL` and `glsl` to render meta balls on the web. The project uses `Ray Marching` to do this.
 For now the project can be viewed [here](https://www.student.bth.se/~dahl20/dbwebb-kurser/webgl/me/kmom05/proj/).
 
 ## [C++/DX11] 3D Renderer
